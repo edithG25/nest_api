@@ -1,4 +1,3 @@
-import { Config } from './../node_modules/@sqltools/formatter/lib/core/types.d';
 import { Module } from '@nestjs/common';
 import { TaskModule } from './task/task.module';
 import { ConfigModule, ConfigService } from '@nestjs/config';
